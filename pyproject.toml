@@ -13,6 +13,8 @@ webdriver-manager = "^4.0.1"
 pydantic = "^2.6.2"
 python-dotenv = "^1.0.1"
 selenium = "^4.18.1"
+pyperclip = "^1.8.2"
+pyautogui = "^0.9.54"
 
 [tool.poetry.scripts]
 start = "run:main"
